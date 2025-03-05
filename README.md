@@ -48,7 +48,7 @@
 ***
 ### HELP :
 **IF you need any help**
-- [**CLICK HERE**](https://messages-snowy.vercel.app)
+- [**CLICK HERE**](https://wa.me/qr/5VAFEGQNG3SQM1)
 
 
 ***
