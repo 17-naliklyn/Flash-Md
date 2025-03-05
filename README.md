@@ -32,7 +32,7 @@
 
 
 ### DISCLAIMER 🛡 
-- Copying or modying this script is not allowed! For we shall not offer any help if any error occur!
+- Copying or modifying this script is not allowed! For we shall not offer any help if any error occur!
 
 ***
 ### HELP :
