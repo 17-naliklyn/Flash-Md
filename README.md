@@ -50,11 +50,3 @@
 **IF you need any help**
 - [**CLICK HERE**](https://wa.me/qr/5VAFEGQNG3SQM1)
 
-
-***
-
-### THANKS TO:
-- [***Fortunatus Mokaya***](https://github.com/Fortunatusmokaya) For several Cmds Addition.
-- [***Gifted Tech***](https://github.com/mouricedevs) For Genaral Help and Session Generation
-- [***Suhail Ser***](https://github.com/SuhailTechInfo) For Code encryption 
-- [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **FLASH-MD**
